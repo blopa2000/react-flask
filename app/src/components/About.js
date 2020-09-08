@@ -1,0 +1,12 @@
+import React from "react";
+
+const About = () => {
+  return (
+    <div>
+      <h1>About</h1>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto, minima voluptate ipsum sit magnam accusantium eius, debitis quam dolorum reprehenderit atque dolores ad dignissimos doloribus temporibus quidem eveniet nesciunt repellat cumque deserunt, dicta neque amet. Praesentium, maiores nihil labore facere at quasi sequi tenetur provident natus, dolores quas eos assumenda totam officia sit quod. Quas, consequuntur commodi? Alias nesciunt eum sequi molestiae cumque odit. Et maiores ratione delectus temporibus quas, nihil, eos quisquam iure quae velit voluptate molestiae voluptatem ducimus excepturi deleniti quam asperiores ad animi accusantium. Nobis aperiam incidunt voluptatum ea maiores cupiditate vel voluptas aliquam reprehenderit perspiciatis. Fugit exercitationem, dolores, quam aliquid, ducimus beatae hic nobis recusandae dicta vitae a! Expedita veritatis assumenda maxime quod odio quo animi voluptatem similique in reiciendis iste obcaecati iure, ad repellat sint ipsum harum doloribus? Tenetur culpa provident at quidem, nesciunt consequuntur neque. Aut culpa sunt totam mollitia, neque accusamus facere possimus error facilis dolores laboriosam fugit perferendis, provident deserunt necessitatibus. Debitis magnam beatae perferendis quae odit a molestiae amet veniam? Nihil iusto magni dolores incidunt perspiciatis soluta officia! Molestiae, molestias iste? Similique molestias repellendus porro dolorum obcaecati, placeat dolor amet voluptatibus nulla iure itaque error dignissimos dolore deserunt consectetur modi, magnam non doloribus nobis odit at nisi nostrum alias quidem. Delectus, beatae totam deserunt tempora ipsa architecto sunt, obcaecati voluptatibus reiciendis voluptatum vel eveniet. Earum amet eos, velit quae sequi placeat, ab sit voluptatum optio ipsam odio, itaque eaque facilis! Repellendus, temporibus ipsa? Tempore sed at nobis impedit dolores quis non exercitationem earum architecto labore nemo, accusantium explicabo consequuntur fugiat tempora consequatur iure soluta eligendi quae doloribus praesentium. Asperiores, eaque deleniti labore tempora beatae sed incidunt iusto delectus nihil iure eius blanditiis dignissimos! Atque, cupiditate. Sunt iure, corporis totam at voluptatum aspernatur similique, vel beatae amet quia temporibus, numquam iusto dicta?</p>
+    </div>
+  );
+};
+
+export default About;
